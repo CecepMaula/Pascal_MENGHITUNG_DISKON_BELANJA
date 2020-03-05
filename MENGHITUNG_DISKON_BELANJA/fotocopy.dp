@@ -1,0 +1,12 @@
+[Project]
+FileName=E:\Program_UTS_ALPRO\Fotocopy\fotocopy.dp
+Name=fotocopy
+MainUnit=E:\Program_UTS_ALPRO\Fotocopy\fotokopi.pas
+UnitCount=1
+ResFiles=E:\Program_UTS_ALPRO\Fotocopy\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\Icon\Mainicon.ico
+[Unit1]
+FileName=E:\Program_UTS_ALPRO\Fotocopy\fotokopi.pas
+FileTime=1266592611
